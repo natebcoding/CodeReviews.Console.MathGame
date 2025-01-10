@@ -8,8 +8,6 @@ using NathanielBermudez.MathGame;
 
 var menu = new Menu();
 
-var games = new List<string>();
-
 string name = Helpers.GetName();
 
 var date = DateTime.UtcNow;
